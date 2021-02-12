@@ -1,0 +1,21 @@
+.showButton
+{
+    background-color: green;
+    color: white;
+    margin: 40px;
+}
+
+.hideButton
+{
+    background-color: red;
+    color: white;
+    margin: 40px;
+}
+
+.main_div
+{
+    background-color: lightblue;
+    width: 400px;
+    height: 400px;
+    margin: 30px;
+}
